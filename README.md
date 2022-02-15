@@ -1,6 +1,6 @@
-Public class Nastya
-{
-Public static void main (string [] args)
-{
-System.out.println ("ты невероятная")}
-}
+public class Nastya {
+    public static void main(String[] args) {
+        System.out.println("ты невероятная"());
+        anotherMethod();
+    }
+   
